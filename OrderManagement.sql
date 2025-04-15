@@ -121,9 +121,4 @@ SELECT * FROM Orders;
 SELECT * FROM OrderDetails;
 
 
-drop table Users
-drop table Products
-drop table Electronics
-drop table Clothing
-drop table Orders
-drop table OrderDetails
+
