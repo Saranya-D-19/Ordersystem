@@ -1,0 +1,1 @@
+connectionString=Server=DESKTOP-N03VLVF;Database=OrderManagementDB;Integrated Security=True;TrustServerCertificate=True
